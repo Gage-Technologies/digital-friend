@@ -35,7 +35,7 @@ After that simply run the main and you're good to go!
 
 Sometimes the program will fail to detect your audio device :(
 
-I mad this in conjunction with a video that was posted on youtube so I may have time to look at that later.
+I made this in conjunction with a video that was posted on youtube so I may have time to look at that later.
 
 For now I would suggest simply wrapping the `playsound("response.mp3")` in a try/except or using another library for the speak file.
 
